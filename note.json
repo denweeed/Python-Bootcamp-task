@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "author_name": "Stephen King",
+      "rating": "0.9"
+    },
+
+    {
+      "author_name": "Joan Rowling",
+      "rating": "0.7"
+    },
+
+    {
+      "author_name": "Author 3",
+      "rating": "0.1"
+    }
+  ]
+}
